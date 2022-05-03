@@ -21,6 +21,3 @@ spec:
       ref: github-push
     template:
       ref: devfile-sample-python-basic
-status:
-  configuration:
-    generatedName: ""
